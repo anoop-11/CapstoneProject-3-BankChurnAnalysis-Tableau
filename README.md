@@ -1,6 +1,6 @@
 ## Tableau-Project-on-Bank-Churn-Analysis
 ##### • Title:- Bank Churn Analysis
-##### • Tool Used:- Tableau , Python , Pandas
+##### • Tool Used:- Tableau | Python | Pandas
 
 ## Description :-
 ##### • Performing Customer Churn Analysis for North America Bank because Credit card business of this bank is not performing very well.
